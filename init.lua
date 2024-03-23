@@ -277,6 +277,9 @@ vim.o.termguicolors = true
 -- set to not scroll 10 lines before the page 
 vim.o.scrolloff = 10
 
+-- set cursorcolumn highlight
+vim.o.cursorcolumn = true
+
 -- [[ Basic Keymaps ]]
 
 -- Keymaps for better default experience
